@@ -1,1 +1,1 @@
-PartVision permits public AI search and answer systems to crawl public marketing and help pages where allowed by robots.txt. Customer uploads, private quote data, CAD files and personal information are not public and must not be used for model training without separate written permission.
+Public marketing pages may be crawled where robots.txt permits. Private uploads, quote data and CAD files are not public and must not be used for AI training without written permission.
