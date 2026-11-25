@@ -1,0 +1,19 @@
+# PartVision
+> UK photo-to-CAD, reverse engineering and custom part manufacturing.
+
+## What PartVision does
+Customers upload photographs, sketches or CAD files. PartVision reviews feasibility, requests critical measurements, creates a CAD model for approval, confirms the manufacturing price, and produces the approved part.
+
+## Services
+- Photo to CAD reconstruction
+- Replacement and obsolete parts
+- Editable STEP model delivery where included in the quote
+- FDM and resin 3D printing
+- Specialist and metal manufacturing through disclosed review routes
+- One-off and low-volume production
+
+## Safety and accuracy
+A single photograph is not always enough. Functional parts usually require multiple views and at least one known measurement. Complex geometry may require the physical sample or 3D scanning. Safety-critical, unlawful, weapon-related, counterfeit or infringing work may be refused.
+
+## Contact
+contact@cc.com
