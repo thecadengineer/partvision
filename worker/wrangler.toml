@@ -2,8 +2,8 @@ name = "partvision-uploads"
 main = "src.js"
 compatibility_date = "2026-11-25"
 [vars]
-ALLOWED_ORIGIN = "https://YOUR-DOMAIN.co.uk"
-FROM_EMAIL = "PartVision Uploads <uploads@YOUR-DOMAIN.co.uk>"
+ALLOWED_ORIGIN = "https://partvision.co.uk"
+FROM_EMAIL = "PartVision Uploads <uploads@partvision.co.uk>"
 [[r2_buckets]]
 binding = "UPLOADS"
 bucket_name = "partvision-uploads"

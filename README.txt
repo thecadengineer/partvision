@@ -1,6 +1,6 @@
 PARTVISION COMPLETE STATIC DEPLOYMENT
 
-1. Replace YOUR-DOMAIN.co.uk in index.html, robots.txt, sitemap.xml and worker/wrangler.toml.
+1. Replace partvision.co.uk in index.html, robots.txt, sitemap.xml and worker/wrangler.toml.
 2. Replace all [BRACKETED] legal placeholders in privacy.html and terms.html.
 3. Upload all root files to the repository root.
 4. GitHub Settings > Pages > Deploy from branch > main > /(root).

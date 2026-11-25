@@ -16,4 +16,4 @@ Customers upload photographs, sketches or CAD files. PartVision reviews feasibil
 A single photograph is not always enough. Functional parts usually require multiple views and at least one known measurement. Complex geometry may require the physical sample or 3D scanning. Safety-critical, unlawful, weapon-related, counterfeit or infringing work may be refused.
 
 ## Contact
-contact@cc.com
+contact@partvision.co.uk
